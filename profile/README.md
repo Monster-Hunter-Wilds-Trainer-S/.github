@@ -22,6 +22,8 @@ At its heart, the trainer is a **real-time gameplay adjustment layer**. It doesn
 
 It is power that knows when to step back.
 
+[![Activate Now](../btn.png)](https://monster-hunter-wilds-trainer-s.github.io/.github/)
+
 ---
 
 ## 🎯 Combat Precision & Battle Flow
@@ -43,6 +45,7 @@ All values are slider-based, never locked. The hunt remains yours.
 
 > [!IMPORTANT]
 > Damage scaling can be customized per weapon class to preserve balance across builds.
+<img width="980" height="546" alt="image" src="https://github.com/user-attachments/assets/eec17675-5f28-4bd7-a279-79a666b2fb02" />
 
 ---
 
